@@ -175,7 +175,7 @@ ul {
     justify-content: space-between;
 
     .card {
-      background-image: url("imagens/card1.webp");
+      background-image: url("imagens/card1.png");
       width: 32%;
       aspect-ratio: 16/9;
       background-size: cover;
@@ -187,11 +187,11 @@ ul {
     }
 
     .card:nth-child(2) {
-      background-image: url("imagens/card2.webp");
+      background-image: url("imagens/card2.png");
     }
 
     .card:nth-child(3) {
-      background-image: url("imagens/card3.webp");
+      background-image: url("imagens/card3.png");
     }
   }
 }
