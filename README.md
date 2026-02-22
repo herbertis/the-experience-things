@@ -22,39 +22,7 @@ A proposta é entregar:
 
 🎟️ Indicação de ingressos disponíveis
 
-## 📱 Estrutura responsiva
-
-"Guests are immersed into an original 'Stranger Things' storyline...[it] combines the special effects of a 3D Universal Studios ride with a telekinetic escape room."
-
-## 🏙️ Cidades com Ingressos Disponíveis
-
-São Paulo (SP)
-
-Rio de Janeiro (RJ)
-
-Paraná (PR)
-
-## 🌎 Estados participantes:
-
-São Paulo (SP)
-
-Rio de Janeiro (RJ)
-
-Minas Gerais (MG)
-
-Bahia (BA)
-
-Paraná (PR)
-
-Rio Grande do Sul (RS)
-
-Pernambuco (PE)
-
-Ceará (CE)
-
-Santa Catarina (SC)
-
-Goiás (GO)
+📱 Estrutura responsiva
 
 ---
 
@@ -69,6 +37,8 @@ JavaScript
 Estrutura responsiva
 
 Deploy via GitHub Pages
+
+---
 
 ## 🎯 Objetivo do Projeto
 
