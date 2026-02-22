@@ -91,5 +91,5 @@ Baseado no universo da série Stranger Things, produção original da Netflix.
 
 ---
 
-## Se você está pronto…
-## 🌌 ATRAVESSE O PORTAL.
+# Se você está pronto…
+# 🌌 ATRAVESSE O PORTAL.
