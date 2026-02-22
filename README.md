@@ -83,32 +83,13 @@ Estrutura clara de navegação
 Simulação de página promocional para evento
 
 Prática de front-end moderno
+
 ---
-📱 Redes Sociais
 
-Se conecte e acompanhe futuros projetos 👇
-
-(Adicionar links das redes aqui)
----
-## 🤝 Institucional
-
-Contato
-
-Imprensa
-
-Parcerias
-
-Influenciadores
----
 🎥 Inspiração
-
 Baseado no universo da série Stranger Things, produção original da Netflix.
----
-## 👨‍💻 Desenvolvido por
 
-Herbert Ishimura Sousa
-Front-end Developer | UX Design | Experiências Digitais
-
-Se você está pronto…
 ---
+
+## Se você está pronto…
 ## 🌌 ATRAVESSE O PORTAL.
