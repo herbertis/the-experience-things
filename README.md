@@ -3,6 +3,8 @@ Você está pronto para atravessar o portal?
 
 Projeto desenvolvido como landing page interativa inspirada no universo de Stranger Things, focado em experiência imersiva, seleção de cidades e ambientação temática.
 
+--- 
+
 ## 🔗 Acesse o projeto online:
 👉 https://herbertis.github.io/the-experience-things/
 
@@ -56,7 +58,7 @@ Prática de front-end moderno
 
 ---
 
-🎥 Inspiração
+## 🎥 Inspiração
 Baseado no universo da série Stranger Things, produção original da Netflix.
 
 ---
