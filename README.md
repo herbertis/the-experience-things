@@ -1,12 +1,14 @@
---🎬 THE EXPERIENCE – STRANGER THINGS
+# 🎬 THE EXPERIENCE – STRANGER THINGS
 Você está pronto para atravessar o portal?
 
 Projeto desenvolvido como landing page interativa inspirada no universo de Stranger Things, focado em experiência imersiva, seleção de cidades e ambientação temática.
 
---🔗 Acesse o projeto online:
+## 🔗 Acesse o projeto online:
 👉 https://herbertis.github.io/the-experience-things/
 
-📖 Sobre o Projeto
+---
+
+## 📖 Sobre o Projeto
 
 THE EXPERIENCE – STRANGER THINGS é uma página promocional que simula a divulgação de um evento imersivo inspirado na famosa série da Netflix.
 
@@ -20,11 +22,11 @@ A proposta é entregar:
 
 🎟️ Indicação de ingressos disponíveis
 
-📱 Estrutura responsiva
+## 📱 Estrutura responsiva
 
 "Guests are immersed into an original 'Stranger Things' storyline...[it] combines the special effects of a 3D Universal Studios ride with a telekinetic escape room."
 
-🏙️ Cidades com Ingressos Disponíveis
+## 🏙️ Cidades com Ingressos Disponíveis
 
 São Paulo (SP)
 
@@ -32,7 +34,7 @@ Rio de Janeiro (RJ)
 
 Paraná (PR)
 
-🌎 Estados participantes:
+## 🌎 Estados participantes:
 
 São Paulo (SP)
 
@@ -54,7 +56,9 @@ Santa Catarina (SC)
 
 Goiás (GO)
 
-🚀 Tecnologias Utilizadas
+---
+
+## 🚀 Tecnologias Utilizadas
 
 HTML5
 
@@ -66,7 +70,7 @@ Estrutura responsiva
 
 Deploy via GitHub Pages
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com foco em:
 
@@ -79,14 +83,14 @@ Estrutura clara de navegação
 Simulação de página promocional para evento
 
 Prática de front-end moderno
-
+---
 📱 Redes Sociais
 
 Se conecte e acompanhe futuros projetos 👇
 
 (Adicionar links das redes aqui)
-
-🤝 Institucional
+---
+## 🤝 Institucional
 
 Contato
 
@@ -95,16 +99,16 @@ Imprensa
 Parcerias
 
 Influenciadores
-
+---
 🎥 Inspiração
 
 Baseado no universo da série Stranger Things, produção original da Netflix.
-
-👨‍💻 Desenvolvido por
+---
+## 👨‍💻 Desenvolvido por
 
 Herbert Ishimura Sousa
 Front-end Developer | UX Design | Experiências Digitais
 
 Se você está pronto…
-
-🌌 ATRAVESSE O PORTAL.
+---
+## 🌌 ATRAVESSE O PORTAL.
